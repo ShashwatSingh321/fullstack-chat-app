@@ -10,6 +10,10 @@ This is a real-time chat application built using a fullstack approach, featuring
 - **Scalable Backend**: Handles multiple concurrent users efficiently.
 - **User Management**: Ability to create, update, and manage user profiles.
 
+## SCREENSHOT-:
+![Screenshot 2024-12-12 221937](https://github.com/user-attachments/assets/29c0f345-f71c-4895-abe5-563af9282dc1)
+
+
 ## Tech Stack
 
 ### Frontend
